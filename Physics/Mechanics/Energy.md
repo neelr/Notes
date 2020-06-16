@@ -1,0 +1,35 @@
+- Conservation of energy
+	- Initial energy == ending energy
+	- Pendulum can't go higher than before bc of conservation of energy
+	- Like [[Momentum]]
+- Force applied is work
+- Work = Force x Distance
+- 50N in 2m is 100J of work
+- Work is not including time
+- Power takes into account time
+- $$Power = \frac{work}{time}$$
+- Work changes position or speed or both
+- Work turns into mechanical force
+- Work Energy Theorum
+	- Amount of work is the mech energy smth has
+	- 100J of work == 100J of mechanical energy
+- Mechanical energy
+	- 2 for now
+	- Potential
+		- off the ground has potential energy
+		- Has the potential to exert energy
+		- PE
+		-  $$PE = mass * gravity * distance$$
+		1. $$Work = F * Dist$$
+		2. $$Work = Weight * Distance$$
+		3. $$Work = Mass * Gravity * Distance$$
+		- Work turns into potential energy, so you can replace that
+		- Heavier == > PE
+	- Kinetic
+		- When you push an object it is moving
+		- Thats kinetic energy
+		- Mass and speed matter when energy is there
+		- so the equation is
+		- $$KE = \frac{1}{2}mass * speed^2$$
+	- Total Mechanical Energy
+		- You need to calculate both KE and PE and add them together

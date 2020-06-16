@@ -1,0 +1,1 @@
+The ability of matter to resist motion

@@ -1,0 +1,34 @@
+# State Prosecutors at the center of mass imprisonment and reform
+
+- prosecutors can thin out jails for COVID19
+- voters only have small interactions, rest is decided by the prosecutor
+- Prosecutors have a big impact
+- More crimes than staff always → leads to less prosecution on smaller or none
+- try to resist death penalty
+- Bail
+    - Pre trial detention is more about financials of convicted
+    - big bargaining tool, as defendants are harder to make a case
+    - Plea deals are then done and help prosecutor
+    - prosecutors can even decide sentence of plea if the judge agrees
+    - Increasing number of ways to avoid court
+- Sentencing
+    - Many judges were prosecutors, so they agree the same
+    - They agree on pleas etc
+    - Prosecutors argue and set the baseline sentence
+- Post sentencing
+    - non release is more persuasive
+    - prosecutors have a say on which get expunged and which don't when retroactive laws kick in
+- COVID19
+    - Don't want people in Jails
+    - All people jailed for small crimes and probation were released
+    - small sentences are cut short
+    - We learned that prosecutors are the hub of CJ
+- Community limitations
+    - More for retribution not rehab
+    - more prison growth is in small districts
+    - Public safety is a big concern for community
+    - Depend on others for rehab
+- social polocy maker
+    - Prosecutors have the power to make change
+    - Have the power to reduce sentences, and can institute local policy changes
+    - They have an impact currently

@@ -1,0 +1,22 @@
+# Speed
+
+- speed = distance / time
+- meter per second
+- instantanteous speed
+    - current speed
+    - speed in d / t at a specific time
+- Average speed
+    - average speed over entire distance
+    - no speed variations in this
+    - whole distance / total time
+- Constant speed: Steady speed
+- Changing speed: → acceleration
+- speed vs velocity
+    - speed is just dist and time
+    - velocity is speed and direction
+    - left at 5m/s, velocity is -5m/s
+- Acceleration
+    - rate at which velocity changes
+    - Can be negative (no decelerate)
+    - change in speed / time
+    - derivative of speed
