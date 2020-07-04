@@ -1,0 +1,21 @@
+- Absolute 0
+	- Lowest possible
+	- Turns into plasma
+- Law 0
+	- If 2 are in equilibrium with another 3rd, the 2 apart are in equilibrium
+	- ![[law 0 thermo.png]]
+- Law 1
+	- No heat destroyed
+	- flows from one system to another
+	- Loss == Gain
+	- `Heat added = increase in internal energy + external work`
+- Law 2
+	- Heat never flows from cold to hot
+	- Always goes from hot to cold
+- Heat Engine
+	- Converts heat into work
+	- Efficiency = 
+		- $$Efficiency = \frac{T_{hot}-T_{cold}}{T_{hot}}$$
+- Entropy
+	- Order to disorder == entropy
+	- disorganized energy can be changed with organizaional effort

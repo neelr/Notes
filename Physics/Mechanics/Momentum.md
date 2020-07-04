@@ -19,4 +19,3 @@
 		- Net initial momentum is 0 because cannon and ball aren't moving
 		- after the cannonball is shot out at 500kg/s, the cannon has to have the same momentum but negative (other direction)
 		- Thats why cannon is heavier
-		- 

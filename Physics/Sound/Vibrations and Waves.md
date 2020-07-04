@@ -1,0 +1,35 @@
+- anything moving back and forth is vibrating
+- Wave is wiggle caused by a vibration/disturbance
+	- Water wave
+	- Pendulum
+	- Light
+	- Sound
+	- etc.
+- Pendulums swing back and forth, depends only on length
+- Time back and forth is period (again **Does not depend on mass**)
+- Waves
+	- <img src="https://doggo.ninja/gi2BUy.png"/>
+	- frequency == how often period in 1 second
+	- hertz
+	- frequency is inverse of period
+	- 5hertz = 5 waves per second
+- Wave speed
+	- $$WaveSpeed = wavelength * frequency$$
+- transverse waves
+	- vibrating to right angles to direction of propagation
+	- <img src="https://doggo.ninja/eIERgi.png"/>
+- longitudinal waves
+	- is parallel to propagation/same direction
+	- <img src="https://doggo.ninja/mRYx22.png"/>
+- Wave behaviors
+	- Reflection
+		- change of direction when bounced off barrier
+	- refraction
+		- Change of direction of wave
+	- diffraction
+		- change in direction as they pass a barrier
+	- interference
+		- 2 waves meet each other and interact
+		- causes a net effect on the particles
+		- Add/subtract the waves in a place
+		- Standing waves are interference that pass through each other

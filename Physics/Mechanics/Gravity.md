@@ -1,0 +1,11 @@
+- Everything pulls on everything that involves mass and distance
+- $$Grav Force = \frac{constant*m_1*m_2}{d^2}$$
+- greater mass == greater pull
+- grav force == weight
+- Farther it approches 0, but never is 0
+- Tides are moons gravity
+- Einstein
+	- Gravity is a warp in 4d space time
+	- greater mass == greater warp/bend
+	- ![[SpaceTime.png]]
+	- Relativity

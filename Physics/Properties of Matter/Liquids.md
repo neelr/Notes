@@ -1,0 +1,17 @@
+- Pressure is foce in a specific area
+- Pressure in a liquid
+	- force applied on an object by liquid
+	- Depends on depth
+	- salt water has less pressure
+	- $$Liquid pressure = density * grav accel * depth$$
+- Buoyancy
+	- Loss of weight when in liquid
+	- Support force by water
+	- [[Atomic Nature of Matter]] shows it pushes against solid pushing it up
+	- force vectors at side cancel out, vs gravity
+	- Depends on density
+	- Equal to the weight of water it displaces
+- Liquids have different densities
+- Pressure is consistent in all fluids (liquid + gas)
+- ![[pascals principle.png]]
+	- Can push heavy things

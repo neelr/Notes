@@ -1,0 +1,4 @@
+- Temperatue
+	- because everything moves/vibrates, it all has KE
+	- More movement == more KE
+	- High KE == more temperature == more movement

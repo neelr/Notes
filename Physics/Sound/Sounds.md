@@ -1,0 +1,4 @@
+- Vibrations create sound
+- closed end resonance == vibrating reed
+- open ended == flute w/ fluttering column of air
+- 

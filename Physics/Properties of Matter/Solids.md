@@ -1,0 +1,23 @@
+- Crystal structure
+- close together and ~ same distance
+- proven through xray diffraction
+- Structures
+	- Crystalline
+		- hard
+	- Polycrystalline
+		- plastics
+		- aren't hard and brittle
+	- Amorphous
+		- Rubbers
+		- no definite structure
+- Density
+	- How much matter in a volume
+	- $$Density = \frac{Mass}{Volume}$$
+	- same density regardless of colume
+- Elasticity
+	- change in size or shape when subjected to external forces
+	- Like rubber band
+	- if it returns to its original shape it is **Elastic** if not then it is **Inelastic**
+	- Hooks Law
+		- stretch is proportional to force
+		- only applies within elastic limit (spring can't stretch forever etc.)

@@ -1,0 +1,25 @@
+- atoms are building blcoks
+- perpetually moving
+- Has protons electrons and neutrons
+- proton is + electron is - neutron is neutral
+- held together by strong nuclear forces
+- Different shells
+- Element is classified by number of protons
+- Carbon
+	- $$_{12}^{6}\mathrm{C}$$
+-  $$_{atomic-number}^{atomic-mass}\mathrm{Element}$$
+-  Left to roght is more electrons & protons
+-  more shells (valence electrons)
+-  Compounds = more than one kind of atom
+- Mixture is w/out chem bonding
+- Molecules are bonded (can be same)
+- Antimatter
+	- matter has atoms
+	- has atoms with negative nuclei and pos electrons
+	- positron is positive electron
+	- antiprotons are negative protons
+	- antiparticles are produced using nuclear accellerators
+- Dark Matter
+	- Unseen
+	- know its there because of its gravitational pull
+	- mysterious and ~27% of the universe
