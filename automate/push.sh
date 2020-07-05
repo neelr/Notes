@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Save logs
 date >> /tmp/NotesRun.out
 
 # Notes
@@ -11,5 +12,5 @@ touch "${tommorow}.md"
 commit=$(date +%d-%m-%Y)
 cd ~/Documents/Git/Notes
 git add .
-git commit -m "${commit}"
+git -c commit.gpgsign=false commit -m "${commit}"
 git push
