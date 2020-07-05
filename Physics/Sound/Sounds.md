@@ -1,4 +1,39 @@
-- Vibrations create sound
-- closed end resonance == vibrating reed
-- open ended == flute w/ fluttering column of air
-- 
+-   Vibrations create sound
+-   closed end resonance == vibrating reed
+-   open ended == flute w/ fluttering column of air
+-   Frequency of sounds == pitch
+-   Sound
+    -   Longitudinal
+    -   High and low pressure
+    -   Compression and rarefraction
+    -   needs a medium
+        -   Any medium, best in elastic
+        -   Gas > Liquid > Gas
+        -   <img src="https://doggo.ninja/pO0RTq.png">
+-   Warm air is better than cold air
+    -   Because warmer air bumps into each other more
+-   Reflection of sound
+    -   _echo_
+    -   if too flat then reverbration
+        -   garbles sound
+    -   study is called **acoustics**
+-   Uneven temperature winds cause sound to refract
+    -   <img src="https://doggo.ninja/Y7Ttn1.png">
+-   energy is shown by amplitude
+-   amplitude == loud
+-   pitch == frequency
+-   Natural Frequency
+    -   different due to shape/material
+    -   When force is applied to object
+-   Resonance
+    -   when frequency of forced vibrations == natural frequency a large increase in amplitude happens
+-   interference
+    -   Contructive/not
+-   Beats
+    -   2 slightly diff frequencies added together cause beats
+    -   <img src="https://doggo.ninja/QjMBxz.png">
+-   Doppler Effect
+    -   <img src="https://doggo.ninja/X02XJO.png">
+    -   front and back of moving sound different
+    -   <img src="https://doggo.ninja/HAqwLC.png">
+    -
