@@ -1,6 +1,6 @@
 #!/bin/bash
 
-date >> /tmp/MyLaunchdTest.out
+date >> /tmp/NotesRun.out
 
 # Notes
 tommorow=$(date -v +1d +%d-%m-%Y)
