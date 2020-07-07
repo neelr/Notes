@@ -1,0 +1,36 @@
+- Magnetic poles
+  - North attract south
+  - same repel
+  - All magnets have 2 poles
+- Magnetic Domains
+  - cluster of aligned atons
+  - every spinning electrons == magnet
+  - when all spin together, it makes a strong magnet
+  - <img src="https://doggo.ninja/OwJHTX.png"/>
+  - left == unorganized
+- Making Magnet
+  - Organize electrons to rotate in one direction
+  - stroking motions of another magnet can do it
+- KE can unmagnetize a magnet (heat/impact)
+- Magnetic Fields
+  - produced by motion of electric charge
+  - revealed by magnetic lines
+  - go out of one pole and curve to other pole
+  - <img src="https://doggo.ninja/fURaNo.png">
+  - <img src="https://doggo.ninja/sq2kOg.png">
+- Earth
+  - South pole is north magnetic and vice versa
+- thumb rule
+  - fingers == magnetic field
+  - thumb == direction of current
+- Magnetic field flows around electric current
+- Looping electric current makes the magnetic field stronger
+  - <img src="https://doggo.ninja/CxtWvV.png">
+- Creates electromagnet
+  - Uses electric current to create a magnet
+  - <img src="https://doggo.ninja/pebYuG.png">
+  - w/out magnetic current, not a magnet
+  - can use to move things
+- Magnetic fields moving charged particles
+  - <img src="https://doggo.ninja/LjI57g.png">
+  - experiences deflecting force because the current has a magnetic force

@@ -1,0 +1,12 @@
+-   elecric current can be created through moving magnet in coil of wire
+-   induced voltage
+-   more loops == more voltage
+-   Faradays Law
+    -   Voltage is proportional to product of loops and rate of change of mag field
+    -   Loops and strength of magnet make more electricity
+-   Generators and AC
+    -   more practical to move coil than magnet
+    -   rotating coil in mag field
+    -   called a generator
+    -   <img src="https://doggo.ninja/GS2xvs.png"/>
+    -   Generators are used in most power production
