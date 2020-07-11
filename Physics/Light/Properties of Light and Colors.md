@@ -1,0 +1,34 @@
+-   Light waves are electromagnetic waves
+-   Light is a transverse wave
+-   Polarization
+    -   Filters waves
+    -   <img src="https://doggo.ninja/B1NqwM.png"/>
+    -   Light every day is non polarized
+    -   <img src="https://doggo.ninja/96Vsn8.png"/>
+    -   once light is polarized, its only 1 direction
+    -   The more you tilt the polarizer, the less the intensity
+        -   Proof of transverse wave
+-   Electromagnetic waves
+    -   <img src="https://doggo.ninja/8EXGqt.png"/>
+    -   If you shake a charged rod, you create electromagnetic waves
+    -   <img src="https://doggo.ninja/168F5s.png"/>
+    -   Vibrating fields regenerate each other
+    -   lowest frequency of light is red, highest is violet
+    -   NOT Mechanical wave
+        -   Can be in vacuum
+    -   speed is 3e8 m/s
+    -   longer to travel in denser mediums, but speed is constant
+-   Colors of light
+    -   Roy G Biv
+    -   RGB Colored Light
+-   REFLECTION
+    -   We see objects because they reflect light
+    -   Color is from the reflected light (not absorbed)
+    -   reflects all other colors than the ones it resonates with
+-   Why sky is blue
+    -   short wavelengths get scattered by particles a lot more than others
+-   Why sunset is red
+    -   more atmosphere to go through
+    -   The blue is already scattered, and red is there
+-   Why clouds white
+    -   clouds scatter all colors equally
