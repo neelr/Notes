@@ -1,0 +1,44 @@
+- Law of Reflection
+  - Angle of incidence == angle of reflection
+- Curved Mirrors
+  - Concave
+    - Converges at 1 focal point in front
+  - Convex
+    - diverges from focal point behind
+    - gives a reduced and upright image
+  - Diffuse Reflection
+    - <img src="https://doggo.ninja/gy0x1c.png">
+    - The light is reflected in many different directions
+    - can be smooth for some waves and not for another
+    - paper is rough for light, but smooth for a radio wave
+  - Refraction
+    - occurs when the ave speed of light changes from going through transparent mediums
+    - Ex. Water in a cup
+  - Lenses
+    - Converging
+      - Converge at one focal point
+      - llike concave mirror
+      - can be used to zoom in or reduced/inverted
+      - used for glasses, microscopes, mag glass
+    - Diverging
+      - Diverg e from one focal point
+      - reduced and upright image
+      - Used in Telescopes, spy hole in dor etc
+    - Defects
+      - distortion is called aberration
+      - more than 1 lens stops apperations
+      - Spherical Aberration
+        - doesn't converge at one point
+      - Chromatic abberation
+        - different speeds of colors cause them to separate
+        - <img src="https://doggo.ninja/fqZI3X.png">
+  - Huygen's Principle
+    - every wave front can create others
+    - IDEA: Wave fronts are made of of tiny wave fronts
+    - <img src="https://doggo.ninja/UiRb2J.png">
+    - Diffraction
+      - Wave can pass through opening/barrier
+      - if light goes through a slit, it diffracts, won't show the light on the back
+    - Interference
+      - combined amplitude
+      - <img src="https://doggo.ninja/QAvBV9.png">
