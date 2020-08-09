@@ -69,7 +69,7 @@ walk(__dirname, (e, res, folders) => {
         <html>
             <head>
                 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css">
-                <title>${folder.split("/")[folder.split("/").length - 1]}</title>
+                <title>${folder == __dirname ? "Notes" : folder.split("/")[folder.split("/").length - 1]}</title>
             </head>
             <body>
                 <h1><span><a href="/">.</a>/${folder.replace(__dirname, "").split("/").slice(1).map((v, i) => {
