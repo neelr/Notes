@@ -2,3 +2,5 @@
 .DS_Store
 .vscode
 _layouts
+.vercel
+node_modules

@@ -1,0 +1,23 @@
+{
+	"name": "notes",
+	"version": "1.0.0",
+	"description": "All my notes, just look at them",
+	"main": "build.js",
+	"dependencies": {
+		"marked": "^1.1.1"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"build": "node build.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/neelr/Notes.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/neelr/Notes/issues"
+	},
+	"homepage": "https://github.com/neelr/Notes#readme"
+}
