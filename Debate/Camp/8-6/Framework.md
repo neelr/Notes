@@ -1,0 +1,66 @@
+-   Spend time on framework in 1ar 2ar
+-   Why FW is an argumant against K
+    -   determine neg/aff ground
+-   Clear interp
+    -   get to defend the squo maybe?
+    -   weight aff after K
+        -   reasons the plan is bad
+    -   We get to weigh aff against K
+- 2ac standards
+  - Fairness and clash
+    - smtms education
+  - material impacts always good
+  - fairness important in 2ac
+    - moral hazard for neg
+    - cheaty K's rather than debate the aff
+    - impact to fairness
+    - and is obvious intrinsic good for debate to function at all
+    - Same reason why the judge doesn't flip a coin, they need to fairly evaluate argument
+    - prior to fw
+  - Clash argument
+    - clash makes people think critically
+    - detailed clash is pinnacle of debate
+    - clash is needed for any operational value in debate
+- Same responses
+  - Black people are disadvantages outside, so they should have advantages in debate
+    - response: need to know law to make policies
+  - Role of the Ballot
+    - the role of the ballot should be to the debater who did the better debating. Eveything else is self serving and steals ground.
+  - failure to account for countries and threats is bad for policymaking
+    - yes, but take into account concequencialist theory
+    - serial policy failure
+    - alt is only analyzing representation
+      - policy paralysis
+  - Words are reoresentation
+    - sure racist words but not everything
+    - makes it unfair
+- Focus on arguments against weighing your aff
+
+### Circumvention DA
+
+- Plan is used as moral copita for good
+- allows bad thing
+  - we only justify only 
+  - we don't need masking
+  - invert the law
+- gives trump a moral facelift
+  - no ev
+  - The argument that we shouldnt take actions is a bad way tot approach politics
+  - bad bc then we can't pass any moral reform for 8 years which is amoral
+- LWOP 
+  - alt would need to eliminate LWOP
+- resentamont
+  - when we realize politics is harder than debate then we stop politics
+  - good to be unsatisfied with the way we are
+  - fear of it creates it
+- Fiat double bind
+  - don't give date
+  - give ~ 1 decade
+  - they're looking for links to the fiat double bind
+  - impact scenarious inflated, we won't all die
+  - debate is so we can better ourselves through clash
+  - sanctions inaction in face of smth like police brutality
+- nuclear awareness
+  - public awareness in public issues are important
+  - ctbt
+  - 

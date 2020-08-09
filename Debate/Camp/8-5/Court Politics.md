@@ -1,0 +1,104 @@
+Court Politics
+
+## Branches
+
+-   Legislative
+    -   Makes laws
+    -   Consists of
+        -   Senate
+            -   Upper chamber
+            -   100 members
+            -   Equal representation
+            -   6years
+            -   Approve treaties
+            -   Supreme court stuff
+            -   more federal
+            -   VP in case of tie
+            -   Presiding officer
+                -   Only if tie
+                -   (currently mike pence)
+            -   Majority leader
+                -   Responsible for community rules
+        -   House of rep
+            -   Lower chamber
+            -   435
+            -   population
+            -   2 year term
+            -   Selects a president if tie
+    -   Draft a bill
+    -   If anyone in the senate objects to bill, it goes to next day
+    -   legislative committee
+    -   bills are placed on a calendar for comittee
+    -   chamber
+    -   fillibuster is a extended debate of a senate to delay
+        -   if cloture, debate is limited to 30 hrs
+        -   requires 3/5
+    -   Rider can be about anything, and adds on to another peice
+        -   meant to make legislation go faster
+        -   **Rider DA:** Bad riders will be passed to the plan
+    -   Concurrence
+        -   If both house and senate pass, they go to president
+    -   Bill becomes law if signed by president
+    -   not if not signed in 10 days
+        -   (pocket veto)
+        -   resubmitted to congress, and if congress overrides/amends, goes back to president
+    -   Intrest groups can inform these departments
+        -   lots of power
+-   Stealing elections
+    -   Gerrymandering
+    -   <img src="https://doggo.ninja/pWd33r.png"/>
+    -   Racial redlining is illegal
+        -   Gerrymandering by race
+    -   Gerrymandering in general is allowed
+-   Executive branch
+    -   President
+        -   Military
+        -   electred no more than 2 times
+        -   4 year terms
+    -   VP
+        -   alternate president
+        -   unlimited 4 year terms
+    -   Cabinet members
+        -   Advisors to president
+        -   heads of departments
+        -   nominated by president and approved by senate
+-   Judicial Branch
+    -   SCOA
+        -   The supreme court
+        -   lifetime position
+        -   nominated by president
+            -   so they don't care about public popularity
+        -   Judges aren't political, but they can lean one way or another
+        -   recieve cases from apellate courts
+        -   or general things that they want to
+    -   Federal courts are lower courts
+    -   handle lower courts
+    -   Federal court districts
+        -   <img src="https://doggo.ninja/lBJbDu.png"/>
+    -   patent approval
+    -   drug dealing
+    -   State => federal if the supreme court wants to hear your
+    -   Court packing
+        -   Packs federal courts and with federal judge positions
+        -   senate checks, but senate is same as president right now
+    -   SCOA
+        -   only hears 1% of all submissions in US
+        -   <img src="https://doggo.ninja/lpiQHX.png"/>
+        -   Why not?
+            -   if its political
+            -   if too new
+            -   prefers to let things be
+        -   oral arguments
+        -   30 minutes to present the case
+        -   US is rep by general solicitor
+        -   not always odd number of justices
+        -   if tie its whatever the apellate court ruled
+        -   once opinion is cast, it is counted
+        -   up to 9 months
+
+## Federalism
+
+-   power distributed away from tyranny
+-   vertical split vs horizontal (branches)
+-   states cfan make own laws
+-   have to obey federal laws

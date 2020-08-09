@@ -1,0 +1,38 @@
+# Topicality
+
+-   Like theory
+-   Offensive and defensive caselist
+-   cite other words in resolution in conjunction
+    -   Allows for best resolution of the topic
+    -   the other definitions support each other
+-   On resolution
+    -   T enact - No Courts
+        -   Scalia 02
+            -   Meh, not exact + older + not cjr
+        -   Jafal 00
+            -   Good bc its exact and about cjr
+        -   Supreme Court Missisipi 03
+            -   Good definition
+            -   Exact
+            -   Excludes anything other than legislative
+            -   broad
+        -   What makes it good
+            -   Exact
+            -   defendable
+            -   about what your talking about
+        -   NO AGENCIES
+        -   Courts okie
+        -   answer agencies cp
+    -   T subsets
+        -   SUbstantial
+        -   don't need to worry about it
+        -   may read in is throughout
+            -   we are in this room, not throughout it
+    -   T-Decrim
+        -   Is about criminal justice, not law
+        -   this means you can only reform the actual justice part
+        -   <img src="https://doggo.ninja/EGDygd.png"/>
+        -   legalization is not topical
+        -   only write decrim aff if you are ready for topicality
+    -   T-reform unidirectional
+        -   Saying that it can only impose constraints

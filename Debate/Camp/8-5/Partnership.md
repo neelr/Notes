@@ -1,0 +1,18 @@
+-   2a Has heavier workload
+-   Split things during camp
+-   pretournament updates
+    -   Handle your own side updates
+    -   politic updates
+    -   STILL CUT CARDS
+-   Dropbox organization
+-   Pre round is where tense partner communications
+    -   Aff 2a tells 2n
+    -   neg 2n tells 2a
+-   CX: tell your partner what you want them to ask
+    -   Always check in
+    -   Collab with partner
+    -   AVOID INTERVENTION
+-   Communicate what you need at start and end of prep
+-   checkin at end important for materials needed
+-   Always communicate with your partner
+-   you can be dumb in a debate to your partner

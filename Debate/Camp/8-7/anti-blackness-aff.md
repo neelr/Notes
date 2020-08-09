@@ -1,0 +1,78 @@
+## Debating antiblackness on the aff
+
+-   various difference of schoools
+-   affropessimism
+-   soviet winter
+-   structural theory of the world
+    -   draw a distinction of the view of the world and affropess
+    -   implicates whether
+    -   values that we hold, fairness etc
+-   alt can be material
+    -   movements
+    -   black panthers
+-   others
+    -   unflinching pragmatic analysis
+    -   etc.
+-   ontology is the big aff argument
+    -   neuroscience
+        -   secara and vant bagel
+        -   no scientific support with race is malleable
+        -   fear is amigdula, and is with assosiation
+        -   racial exclusion is biological
+        -   racism attutudes are things that we can change because brain dev is manual
+        -   multicultural understanding makes us
+    -   reform
+        -   brown vs board
+        -   obscure examples of good for black
+        -   lakey program
+            -   free food and electricity
+        -   batson vs kentucky
+        -   sauder vs west virginia
+        -   answer
+            -   not good enough
+    -   ontological assumptions wrong
+        -   past is not future
+        -   unconcious drive against blacks
+        -   HUman systems are inherently malleable
+        -   sum of hundreds of parts
+        -   saying its static puts down every human system in society
+        -   not every human in society
+    -   one example of racial progress
+        -   dissprove their theory
+        -   theory is totalizing
+        -   if not then the kritik has no bearing over the aff
+        -   err aff because
+            -   you can only justify through psycho
+            -   aff can justify materialism
+    -   if its true then..
+        -   alt can't solve
+        -   nothing can solve
+    -   Watchinization
+        -   watchinizes black lives
+        -   stigmitization of black politics
+        -   all black politics are bad
+        -   answer
+            -   agnostic on whether blakc people should be optimistic
+            -   only way of recourse is cjr system
+-   ontological good to keep white people accountable
+    -   dismissing them because of white is bad
+    -   could help black people
+-   political hope
+    -   causes cardiovascular disease
+    -   causes health problems
+    -   CX
+        -   what is political hope
+        -   why is the plan political hope
+        -   plan does not explicitly create hope
+-   basis for antiblackness
+    -   dependent on psychoanalysis
+    -   if they say imperics
+        -   how many have you examined out of thousands
+        -   attemps to make a totalizing thing by imperics
+    -   if psycho
+        -   how do you know it doesn't change
+        -   are babies antiblack
+        -   what causes us to be antiblack?
+        -   **why not changing those to make us not anti-black**
+-   OFFENSE IS NOT SOLVED BY ALT
+-   THEIR KRITIK ISN'T WHY your aff is bad

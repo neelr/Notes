@@ -1,0 +1,42 @@
+-   Epistimology K
+    -   broad about what aff is defending
+    -   epistomology is the study of knowledge
+    -   is the knowledge holistic etc.
+    -   All the assumptions behind The philosophy
+    -   Security
+        -   Proxy wars we think about as :bad:
+        -   can't understand
+        -   Assumptions are bad
+    -   Militarism
+        -   Military weapons and the incentives
+    -   Security K
+-   Tied to the individual debater (Identity based kritiks)
+    -   Tied to proving the ph
+    -   Ontonology
+        -   Study of being
+        -   and how people are study to be
+        -   Blackness is ontological
+            -   Centered in back scholarship
+            -   All defence of the state will fail
+            -   Blackness as a permanent bart of ones being
+            -   Black people are different
+    -   A lot more comprehensive than epistomology kritiks
+    -   more like how the world is
+    -   ALt: LBurning down the state
+    -   Queer based kritiks are about big alternatives
+        -   Big Stick Impacts hurt queer people
+-   High Theory
+    -   Philosophy based
+    -   based around one author
+    -   defend a specific form of philosophy
+    -   very dense
+    -   have a certain alt based on the philosophy
+    -   Ex.
+        -   Batai money fake etc.
+    -   baudrialld
+        -   Most famous in Policy
+        -   weird arguments in debate
+        -   launguage isn't real, things are representative of something else
+        -   debate is a representation of congress
+    -   totological
+        -   Circular logic
