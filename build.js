@@ -12,7 +12,8 @@ const exclude = [
     ".DS_Store",
     "out",
     "node_modules",
-    "package-lock.json"
+    "package-lock.json",
+    "package.json"
 ].map(v => `${__dirname}/${v}`)
 
 var walk = (dir, done) => {
