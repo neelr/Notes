@@ -1,0 +1,235 @@
+# framework
+
+- Resolution is in advance
+  - assigned and should debate
+  - resolution word creates policy change
+  - "enact" and legislative
+  - Why its good
+    - we got it in advance and same expectations
+    - egalitarian way to structure it
+    - winrate ~50/50
+    - I/L to many diff types of offence
+    - predictable stasis point
+    - engage in focused clash
+    - Aff has tyo 
+  - Fw important bc why focus on resolution is key
+- ground. restricted to cjr policy policy allows for arguments
+  - neg should get ground saying implementing bad, and hard for neg because interp is always different
+  - 2ac gives caselist, but their ground is unpredictable
+  - can change agent and caselist changes
+  - DON'T KNOW HOW IT'LL EVOLVE
+  - need plan to be clear
+  - disensentives specific research against aff
+  - incentive to fall back on absolutive strat which indites every affirmative
+  - if the aff can get every kritical literature, the neg can't specifically refute them
+  - aff bybasses all topicality so neg needs to make broad arguments
+- can't debate everything, so we restrict it for clash
+- that clash is good for us
+- good in abstract, but ideal wont happen bc no clash
+
+- truth testing
+  - why neg should test aff advocacy
+  - assume they are false because the neg couldn't test the aff was true
+  - if not topical
+- good education, but not portable until clash with neg, so predictability outweighs
+- neg no need many cards
+- switchside debate
+  - unique about debate
+  - good to know both sides of an issue
+  - avoid echo chambers
+  - good for aff
+    - better to be read on neg
+    - because its policy relavent, better links
+  - if argument about identity more important than debate
+    - DON'T USE SWITCHSIDE
+  - disembodied 
+  - aff responses
+    - if switchside is true, you should be prepared to answer our aff
+      - answer is that the neg refuses the aff, the aff doesn't say the neg is wrong
+      - aff is usually defensive, you don't read frontlines
+      - reading on neg is better for policy
+    - reactionary bad
+      - good because it forces k to be tailored to policy
+      - debate is reactionary
+    - procederal fairness
+      - unifying goal is that we are trying to win
+      - debate is a game
+      - both sides need a fair chance then
+      - fairness is an intrinsic good
+      - ex. dropped arguments
+      - i/l
+        - game preservation
+        - they cheated, they should lose
+          - fairness is the only impact, and cheated, and since its a game they should lose
+        - set precedent
+          - not super convincing
+        - moral hazard
+        - make an explicit issue in the 2nc
+          - fairness is not as compelling
+          - ballott 100% solves procederal fairness, it doesn't solve racism
+          - fairness
+            - the debate is built on fairness (ex, dropped arguments etc)
+            - it is debate
+            - cx
+              - give example where they got screwed by voting other team
+            - not isolated from fairness
+  - DEBATE IS A GAME
+  - prep, pairings brackets, trophies etc
+  - factually competitive academic
+  - the game should be balanced
+  - not a safe space.... why do we have a winner and loser
+  - debate is a game, but more than that
+    - learn about things
+    - changes people
+    - response
+      - educational value maximized in one topic
+    - still fairness is first
+      - ex. speech times 
+      - racism like breaking ttournament rules will get you kicked out
+      - norm
+        - rules are codified norms
+        - same thing, we need it to stay fair
+- give a topical version
+- act as a cp that solves offense and having fairness as nb
+  - no mutual exclusivity
+  - doesn't need to solve, but allows them to read literature base
+  - if they say its bad
+    - neg ground
+    - if education so good, then you can lose every debate and educate everyone
+  - TBA is middle ground
+  - just give one, and give itt in the 2nc/1nc
+  - ex
+    - framing contention
+    - negative to take action
+    - look at thir links for ideas
+  - don't ham cards
+  - responses
+    - only would go for election and politics
+      - answer
+        - good to talk about elections and politics
+        - most people know it should be reformed, question is how
+        - not EVERYONE
+        - give ex of neg strat
+
+
+
+## answers
+
+- role of the ballot
+  - how does judge vote
+  - the plain answer is to choose the better debater
+  - ballot is only fairness, because debate is a game
+  - creates referendums
+  - weird for judges to make descisions on identities of 16 yr olds
+  - no basis
+  - one round doesn't change anything
+- fiat bad
+  - alt is a hypothetical
+  - cannot discuss anything that is in the future
+  - cannot discuss school etc
+  - word should is resolutional
+  - give c/i
+  - does their interp follow the resolution?
+  - interp is a **interp** of the resolution
+  - moral hazard for aff because they need to select a random c/i, air neg
+  - strategic to change c/i after neg offense to solve
+- direction of the resolution
+  - they usually don't meet their c/i
+  - biderectional
+  - just about cjr, then horrible for neg
+  - identity
+    - bad to disclose this
+    - some people don't want to disclose/might be dangerous
+  - c/i only our aff
+    - arbitrary, worse than any c/i
+- debate is bad
+  - why are you here bro
+  - clash is a defense of debate
+  - fairness bad voter for this
+- policy debate produces bad pple
+  - reading a blan doesn't shape subjectivity
+  - you make more choices in life other than debate
+  - hard to draw a causal relation
+  - arguments in debate don't shape us
+- why would you win
+  - we would lose if we were aff
+  - no neg strat
+- teams are running k affs now, non-unique
+- predictability bad
+  - not specific to debate
+  - nott in context of resolution
+  - we need it to clash
+  - lashout is the alt
+  - inevitable
+    - pairings
+    - affs
+    - disclosure
+    - etc
+- aff will outprep on few things
+- limits bad
+  - yes, but we can't operationalize wiiyjout clash
+  - speech times inevitable
+  - none will be learned because no in depth diiscussion
+- debate iis a survivial strat
+  - need to understand costs and risks
+  - debate is the only way to teahc this as a skill
+  - answers
+    - ballot isn't necessary to do that
+    - enforces the negative to negate survival strategues
+    - makes debate hostile
+    - bad ro present blach survival strategy white white judges
+    - usually not actaually believing it
+- micropolitics key 
+  - grassroots activism
+  - answer
+    - debate gives you skills to do that
+    - no way for aff to make those skills
+- fairness to people bad
+  - any big school can cut aff and win
+  - if you can cut any aff, then big schools always win
+  - give examples of schools
+- words don't have a fixed meaning
+  - ballot doens't say if res is true of false, just true or false
+  - if the ballot was true, then we would only giev truth descisions, no tech
+  - definitions aren't violent, communal agreement
+  - leads to exclusion
+
+## Writing your framework file
+
+- write your own blocks as a 2n
+  - internalizes arguments
+  - ethos in debate
+- diff shells
+- read 1ac and understand it
+- procederal fairness
+- picture 1nc args
+  - 1n FIND TOPICAL VERSIONS
+  - contexualize well
+- Run something like a capk or da
+- whats their best offense?
+- ab
+  - patholigization
+- answer new aff offense
+  - say whatever they say is bad say is good etc
+  - does the counterinterp resolve this?
+  - this offense is not intrinsic to reading a plan
+    - other structures in debate
+    - bad people and practices
+      - nothing against reading a topical plan
+      - view voting neg as a topicality good cp, that pics out of what they critisize
+  - inevitable
+    - makes patholigizations
+  - question the aff ev
+    - if its a metaphor about gulf war, not abt debate
+- make a cx strat
+  - why vote aff
+  - might be a link to T
+  - go through un-highleted versions of cards and ask in cx
+    - BE RIGHT
+  - what they are critisizing
+    - good to see impact turns on fw
+  - do they defend a material alt?
+  - not for start but: question that gets to the point of why objective evaluation is good
+    - why are dropped arguments true?
+- if there is nothing
+  - search the article and look for mentions that critisize the article
