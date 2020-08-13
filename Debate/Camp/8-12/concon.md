@@ -1,0 +1,24 @@
+- Only 1 constitutional convention
+- fringe movement
+- never succesfully called one
+- 30 states
+- Never specific
+- nobody really knows if you can make a con con of 1 thing
+- many amendments would pop up, and it would get no 3/4
+- many bad ammendments passed
+- congress would be there to pass
+  - causes nb
+- can't fiat that its only 1 thing talked abt it
+- time suck, not legit
+- fiat
+  - never happened
+  - unprecedented 
+  - stopping unprecedented thing from going wrong
+  - runaway convention
+  - if so, we fiat the plan
+- not distict in any form
+- just diff actor'
+- perm do cp
+  - fiat certainty add time
+  - not suspect
+  - if th

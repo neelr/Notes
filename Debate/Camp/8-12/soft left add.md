@@ -1,0 +1,34 @@
+- reads systemic impacts
+  - ex. racism, dp
+- impact should be a discrete solvable harm
+- capital punishment, immigration detention etc
+  - most people say its a productof big things
+  - racism, xenophobia
+- only plan solves harm
+- popular with legal plans
+- what
+  - adopt and ethical fw
+    - ontological
+    - current > future lives
+    - not liable for other peoples actions
+    - probability risk of existention is infinity
+      - parallysis
+      - can't solve small problems
+    - somettimes have ev saying neg inflated probability
+  - framing
+    - soft left affs  go for this
+    - only probability
+    - ethics
+      - how we should act
+      - as long as what we do is ethical
+    - impact defence
+    - <img src="https://doggo.ninja/iWrYt6.png">
+    - risk assesment
+    - <img src="https://doggo.ninja/FY0k0d.png">
+    - <img src="https://doggo.ninja/RZXUbe.png">
+    - diversify thumper arguments
+    - <img src="https://doggo.ninja/BXsQ2x.png">
+    - <iimg src="https://doggo.ninja/8oBLUw.png">
+    - <img src="https://doggo.ninja/Z0c4F3.png">
+    - <img src="https://doggo.ninja/1Y6KzX.png">
+    - <img src="https://doggo.ninja/ApK90N.png">

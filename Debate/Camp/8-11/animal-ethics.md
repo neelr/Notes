@@ -1,0 +1,38 @@
+- how do we view animals right now
+  - Usually don't apply irl and in debate
+  - we rarely discuss animals in round
+  - extinction usually kills all animals
+  - ethical systems
+  - justification for util is that pain is bad, pleasure good
+  - occams razor simplest solution
+    - you will rarely see that you should value a groups please over another
+    - util should extend to animals
+  - kant
+    - why is something good for you good for everyone else
+    - animals have interests just like humans
+    - things that have interests should be fufilled
+    - animals show an interest in not dying
+  - impact calculus
+    - rarely use animal lives
+    - address it in round
+    - judges sometimes have biases so its good
+    - ant may be able to interpret in a smaller degree
+    - don't know how bad it is
+  - warming is probable and magnitude
+    - bad timeframe
+    - animals helps impact calc
+    - 60% of animals die from climate change
+    - biodiversity loss
+    - amount of lives lost for animals 
+  - animal benitard
+    - animals suffer in the wild
+      - extinction animals good
+    - extinction humanh good
+      - lower suffering good
+    - anthro K
+      - not usually saying worth of animals
+      - they say root cause
+  - must be vegitarian theory
+    - badddddd
+    - just no bro
+  - 
