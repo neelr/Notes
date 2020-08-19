@@ -1,0 +1,8 @@
+- velocity vs average velociyt
+  - displacement over change in time
+  - if you go in circle, displacement can be 0
+  - <img src="https://doggo.ninja/iA9dgO.png">
+- Acceleration
+  - change in velocity (mag or direction)
+  - Can you tell if its speeding up with just a number?
+    - No because you need to know the initial velocity.
