@@ -1,8 +1,15 @@
-- velocity vs average velociyt
-  - displacement over change in time
-  - if you go in circle, displacement can be 0
-  - <img src="https://doggo.ninja/iA9dgO.png">
-- Acceleration
-  - change in velocity (mag or direction)
-  - Can you tell if its speeding up with just a number?
-    - No because you need to know the initial velocity.
+-   velocity vs average velociyt
+    -   displacement over change in time
+    -   if you go in circle, displacement can be 0
+    -   <img src="https://doggo.ninja/iA9dgO.png">
+-   Acceleration
+    -   change in velocity (mag or direction)
+    -   Can you tell if its speeding up with just a number?
+        -   No because you need to know the initial velocity.
+    -   constant acceleration
+        -   same direction and mag is increasing at a constant amount
+    -   $$\frac{v_{1}-v_{0}}{t}$$
+    -   <img src="https://doggo.ninja/gBbPBF.png">
+    -   <img src="https://doggo.ninja/jiYh90.png">
+    -   <img src="https://doggo.ninja/34Q2Xt.png">
+    -   <img src="https://doggo.ninja/icfqSR.png">
