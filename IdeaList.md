@@ -1,0 +1,10 @@
+-   [ ] Ensio
+    -   An app where people can have 2d video calling
+    -   alpha ensio.now.sh
+    -   github https://github.com/ensio
+-   [ ] Local DB for Debate files
+    -   Convert word into html w/ pandas
+    -   query for h1/h4 tags
+    -   use SQL to store and query?
+    -   Create UI
+-   [ ] AirBnb like SlackBot for Hack Club

@@ -1,0 +1,6 @@
+-   Awkwardness into confidence
+-   3 second rule of eye contact
+    -   instead of looking at somewhere
+    -   give everyone 3 seconds of eye contact between people
+-   show palms and gesticulate
+-   commit to what you are saying
