@@ -67,12 +67,12 @@ walk(__dirname, (e, res, folders) => {
         let files = folders[folder]
 
         let html = `
-        <html>
+        <html style="min-height:100vh;">
             <head>
-                <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css">
+                <link rel="stylesheet" href="https://watercss.netlify.app/dist/dark.css">
                 <title>${folder == __dirname ? "Notes" : folder.split("/")[folder.split("/").length - 1]}</title>
             </head>
-            <body>
+            <body style="display:flex; flex-direction:column; min-height:100%;">
                 <h1><span><a href="/">.</a>/${folder.replace(__dirname, "").split("/").slice(1).map((v, i) => {
             return `<a href="/${folder.replace(__dirname + '/', "").split("/").slice(0, i + 1).join("/")}">${v}</a>`
         }).join("/")}</span></h1>
@@ -81,6 +81,7 @@ walk(__dirname, (e, res, folders) => {
             return `<li><a href="${v.replace(__dirname, "").replace(".md", ".html")}">${v.split("/")[v.split("/").length - 1]}</a></li>`
         }).join("")}
         </ul>
+        <footer style="margin-top:auto;"><a href="github.com/neelr/Notes">Source</a> | <a href="https://neelr.dev">@neelr</a> | <strong>MIT LICENSE</strong></footer>
             </body>
         </html>
         `
