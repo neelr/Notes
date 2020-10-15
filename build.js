@@ -55,8 +55,8 @@ walk(__dirname, (e, res, folders) => {
     res.forEach(file => {
         let fileBuffer = fs.readFileSync(file)
         if (file.includes(".md")) {
+            fileBuffer = `<head><title>${path.basename(file)}</title></head>${mark(fileBuffer.toString("utf8"))}`
             file = file.replace(".md", ".html")
-            fileBuffer = mark(fileBuffer.toString("utf8"))
             fileBuffer += `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css">`
         }
 
