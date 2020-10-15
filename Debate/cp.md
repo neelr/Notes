@@ -1,0 +1,7 @@
+-   Solves the aff
+-   can be confo, dispo, or uncondo
+-   contexualize the link to the advantage
+-   Make fun of the solvency deficit
+-   As long as you solve a bit
+-   No quantifiable difference between the cp and the aff
+-

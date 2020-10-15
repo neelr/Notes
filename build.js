@@ -69,7 +69,7 @@ walk(__dirname, (e, res, folders) => {
         let html = `
         <html style="min-height:100vh;">
             <head>
-                <link rel="stylesheet" href="https://watercss.netlify.app/dist/dark.css">
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
                 <title>${folder == __dirname ? "Notes" : folder.split("/")[folder.split("/").length - 1]}</title>
             </head>
             <body style="display:flex; flex-direction:column; min-height:100%;">

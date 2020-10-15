@@ -8,3 +8,4 @@
     -   use SQL to store and query?
     -   Create UI
 -   [ ] AirBnb like SlackBot for Hack Club
+-   [ ] DONT FORGET, if you get rich make a school
