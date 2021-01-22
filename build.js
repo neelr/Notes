@@ -1,6 +1,6 @@
 var fs = require('fs');
 var path = require('path');
-var mark = require("marked-katex")
+var mark = require("marked")
 
 const exclude = [
     ".vercel",
