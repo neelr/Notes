@@ -4,7 +4,7 @@
 	"description": "All my notes, just look at them",
 	"main": "build.js",
 	"dependencies": {
-		"marked": "^1.1.1"
+		"marked-katex": "^0.3.8"
 	},
 	"devDependencies": {},
 	"scripts": {
