@@ -4,7 +4,7 @@
 	"description": "All my notes, just look at them",
 	"main": "build.js",
 	"dependencies": {
-		"marked": "^1.2.7"
+		"marked": "^4.0.10"
 	},
 	"devDependencies": {},
 	"scripts": {
